@@ -1,4 +1,3 @@
-# <font color="green">Aosta 2022</font>
 <figure>
     <img src="map.jpeg"
          alt="Wandelkaart 10 Valle di Cogne">
