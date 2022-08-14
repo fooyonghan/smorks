@@ -1,5 +1,5 @@
 <figure>
-    <img src="map.jpeg"
+    <img src="assets/img/map.jpeg"
          alt="Wandelkaart 10 Valle di Cogne">
     <figcaption><em>Fig 1. Wandelkaart 10 Valle di Cogne - Gran Paradiso | L'Escursionista editore (9788898520817)</em></figcaption>
 </figure>
