@@ -14,16 +14,16 @@
  - Pincet
 
 ## <font color="green">Kooplijst</font>
- - [ ] Hoofdlampje 1x
- - [ ] Waterproof bag (voor kleding)
- - [ ] Menstruatie cup (Zoïe)
- - [ ] Blarenpleisters
- - [ ] Kleine zonnebrand
- - [ ] Kleine tandpasta
- - [ ] Trail run patta's (Zoïe)
- - [ ] Ziplock bags (verschillende maten)
- - [ ] Hangfles voor water
- - [ ] Lucifers (nice)
+ - Hoofdlampje 1x
+ - Waterproof bag (voor kleding)
+ - Menstruatie cup (Zoïe)
+ - Blarenpleisters
+ - Kleine zonnebrand
+ - Kleine tandpasta
+ - Trail run patta's (Zoïe)
+ - ~~Ziplock bags (verschillende maten)~~
+ - Hangfles voor water
+ - Lucifers (nice)
 
 ## <font color="green">Zoeklijst</font>
  - Hoofdlampje 1x
