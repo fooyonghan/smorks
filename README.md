@@ -1,7 +1,7 @@
 # <font color="green">Aosta 2022</font>
 <figure>
     <img src="map.jpeg"
-         alt="Albuquerque, New Mexico">
+         alt="Wandelkaart 10 Valle di Cogne">
     <figcaption><em>Fig 1. Wandelkaart 10 Valle di Cogne - Gran Paradiso | L'Escursionista editore (9788898520817)</em></figcaption>
 </figure>
 
