@@ -18,10 +18,10 @@
  - Hoofdlampje 1x
  - Waterproof bag (voor kleding)
  - ~~Menstruatie cup (Zoïe)~~
- - Blarenpleisters
+ - ~~Blarenpleisters~~
  - ~~Kleine zonnebrand~~
  - ~~Kleine tandpasta~~
- - Trail run patta's (Zoïe)
+ - ~~<font color="black">Trail run patta's (Zoïe)</font>~~
  - ~~Ziplock bags (verschillende maten)~~
  - Hangfles voor water
  - Lucifers (nice)
