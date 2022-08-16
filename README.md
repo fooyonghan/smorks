@@ -13,6 +13,8 @@
  - Goeie aanstekersk
  - Pincet
  - Contant geld voor hutten (kleine briefjes)
+ - Plaksetje tent + matjes
+ - Klimtape
 
 ## <font color="green">Kooplijst</font>
  - ~~Hoofdlampje 1x~~
