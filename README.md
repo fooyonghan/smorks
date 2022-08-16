@@ -25,7 +25,7 @@
  - ~~Ziplock bags (verschillende maten)~~
  - Hangfles voor water
  - Lucifers (nice)
- - Lichgewicht handschoenen
+ - ~~Lichgewicht handschoenen~~
  - Muts
 
 ## <font color="green">Zoeklijst</font>
