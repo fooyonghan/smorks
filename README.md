@@ -15,7 +15,7 @@
  - Contant geld voor hutten (kleine briefjes)
 
 ## <font color="green">Kooplijst</font>
- - Hoofdlampje 1x
+ - ~~Hoofdlampje 1x~~
  - Waterproof bag (voor kleding)
  - ~~Menstruatie cup (Zoïe)~~
  - ~~Blarenpleisters~~
