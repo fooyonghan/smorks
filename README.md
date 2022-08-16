@@ -12,18 +12,21 @@
  - Lippenbalsem / Vaseline
  - Goeie aanstekersk
  - Pincet
+ - Contant geld voor hutten (kleine briefjes)
 
 ## <font color="green">Kooplijst</font>
  - Hoofdlampje 1x
  - Waterproof bag (voor kleding)
- - Menstruatie cup (Zoïe)
+ - ~~Menstruatie cup (Zoïe)~~
  - Blarenpleisters
- - Kleine zonnebrand
- - Kleine tandpasta
+ - ~~Kleine zonnebrand~~
+ - ~~Kleine tandpasta~~
  - Trail run patta's (Zoïe)
  - ~~Ziplock bags (verschillende maten)~~
  - Hangfles voor water
  - Lucifers (nice)
+ - Lichgewicht handschoenen
+ - Muts
 
 ## <font color="green">Zoeklijst</font>
  - Hoofdlampje 1x
